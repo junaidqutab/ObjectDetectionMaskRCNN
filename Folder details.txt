@@ -1,0 +1,10 @@
+
+LINK FOR ENTIRE DATASET / AUgmentation / model weights / log is in the report as wee
+https://drive.google.com/drive/folders/18Zg9Q95w7NN9BAxtEWktdLZK3S-iqWk1?usp=sharing
+
+
+aimages1 --> xml notation files for second type of augmentation images
+augannot --> xml notation files for first type of augmentation images
+Original --> Original images
+
+examples --> xml + image example --> 00 are original those without 00 are augmented
