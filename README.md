@@ -1,4 +1,4 @@
-# Object Detection with Mask RCNN and Transfer Learning
+# Object Detection using MASK-RCNN and Transfer Learning
 <img src = "https://github.com/junaidqutab/ObjectDetectionMaskRCNN/blob/6e0cf17c4cf67a04d83ff47f7f9d88a0d94dc7c2/report/1.png" alt = "Report Page 1"/><br/>
 <img src = "https://github.com/junaidqutab/ObjectDetectionMaskRCNN/blob/6e0cf17c4cf67a04d83ff47f7f9d88a0d94dc7c2/report/2.png" alt = "Report Page 2"/><br/>
 <img src = "https://github.com/junaidqutab/ObjectDetectionMaskRCNN/blob/6e0cf17c4cf67a04d83ff47f7f9d88a0d94dc7c2/report/3.png" alt = "Report Page 3"/><br/>
